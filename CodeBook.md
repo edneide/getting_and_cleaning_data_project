@@ -45,5 +45,5 @@ Some modifications were made in the variables names to let them more descriptive
 
 The final step was to group the variables by activity and subject using the `group_by` verb and summarise all variables calculating the mean.
 
-The final table called `df_final` was exported in `.csv` and contains 180 observations of 88 variables.
+The final table called `df_final` was exported in `.txt` and contains 180 observations of 88 variables.
 

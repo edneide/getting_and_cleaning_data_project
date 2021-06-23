@@ -93,4 +93,4 @@ df_final <- df_mean_std %>%
 glimpse(df_final)
 
 # Savind the final table in csv:
-write.csv(df_final, "df_final.csv", row.names = FALSE)
+write.table(df_final, "df_final.txt", row.names = FALSE)

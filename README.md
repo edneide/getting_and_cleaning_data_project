@@ -8,4 +8,4 @@ You'll find three files in this repository:
 
 2. `run_analysis.R` it is the code containing all the steps need to generate the final tidy data set.
 
-3. `df_final.csv` the final tidy data set containing the mean of all variables for each subject and each activity.
+3. `df_final.txt` the final tidy data set containing the mean of all variables for each subject and each activity.
